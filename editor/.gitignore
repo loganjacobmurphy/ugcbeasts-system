@@ -1,0 +1,12 @@
+# projects, library, renders, logs: personal content, huge
+data/
+
+# licensed fonts, not redistributable (fonts/README.txt says how to source them);
+# Inter and Montserrat are OFL and stay in
+fonts/TikTok*
+fonts/ProximaNova*
+
+__pycache__/
+*.pyc
+.DS_Store
+venv/

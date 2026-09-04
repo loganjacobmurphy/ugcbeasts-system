@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+pillow
+imageio
+imageio-ffmpeg
+faster-whisper
+opencv-python
+mediapipe
+# cutout: Robust Video Matting pulls via torch.hub on first run
+torch
+torchvision

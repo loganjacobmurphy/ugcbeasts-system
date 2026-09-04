@@ -1,0 +1,10 @@
+# Local-only database. See docs/SETUP.md for a separate hosted deployment.
+name = "ugcbeasts-system-local"
+compatibility_date = "2026-05-29"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ugcbeasts-local"
+database_id = "00000000-0000-0000-0000-000000000000"

@@ -1,0 +1,7 @@
+# scripts/start.py creates .dev.vars with a unique passcode on first setup.
+# Never commit real values. Local mode uses no Cloudflare account.
+APP_PASSCODE="replace-with-your-own-long-passcode"
+GREENROOM_ORIGIN="http://127.0.0.1:5710"
+GREENROOM_KEY=""
+# Optional. You can instead paste your own key into the Scripts page.
+# ANTHROPIC_API_KEY=""

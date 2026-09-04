@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "include": ["/api/*", "/greenroom/embed", "/greenroom/embed/*"],
+  "exclude": []
+}

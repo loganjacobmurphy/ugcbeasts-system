@@ -1,0 +1,289 @@
+{
+  "version": 2,
+  "formats": [
+    {
+      "id": "f_crack",
+      "name": "How many X can i crack",
+      "app": "regen",
+      "campaigns": [],
+      "dayHooks": [
+        "Day {day} of asking {aud} for feet pics",
+        "Day {day} of the {aud} feet pic challenge",
+        "Day {day} of seeing how many {aud} feet pics I can get"
+      ],
+      "spanHooks": [
+        "How many {aud} feet pics can I get in {span}?",
+        "Asking {aud} for feet pics for {span}",
+        "The {span} {aud} feet pic challenge"
+      ],
+      "reference": "Example (36s), hook on screen: How many Furrys can i crack in 30 days\nIt's day 13 of my experiment to see how many furries I can crack in 30 days. And if you know bull, you know, these furries aren't as easy as they used to be. Regardless of the challenge, we had pausely around last night and let's just say it was a night to remember. These furries are grippier than you would expect. So our current count is now 13 furries and we have 17 days left to go. And thankfully we have an abundance of furries to go through. if you're wondering how I have so many, All I did was take a model's photo and swap my face with his with Regen upload this on all of my dating profiles and get hella likes. Thanks for watching and follow for day 14.\n\nExample (25s), hook on screen: how many furrys can crack me in 30 days?\nThis is day one of my experiment to see how many furries can crack me in seven days. and after linking up with Roger last night, we've added our first one to the list. Luckily from my last challenge, this won't be too hard as we already have an influx of furries in our DMs. Now, if you're wondering how I have so many, all I did was take a model's photo, swap my face with his with Regen I uploaded this to my dating profiles and watch the furries flood in comment down below how many furries you think I'm gonna crack\n\nExample (33s), hook on screen: How many furrys can i crack in 1 month\nIt's day 12 of my mission to see how many furries I can crack in 30 days, and I want to start off by saying a big thank you for your guys' help. Our current count is now 12 furries, and we're still going. We had growl around last night, and let's just say it was a night to remember, and we still have so many more furries to get through. Now, if you're wondering how I have such an abundance of furries, all I did was take a model's photo and then swap my face with his with Regen. Then once I put this on all of my dating profiles, I just got hella likes. And that's it, come back tomorrow for day 13.",
+      "collection": "",
+      "cta": "Explain the method the way he does in the reference: you take a photo of a guy that women simp over, swap your face with his using {app}, and upload it to your dating apps. It is the thing he did, said in passing, not an ad read.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookStyle": "bg",
+      "hookCollage": 0,
+      "statsFunnel": false,
+      "inboxOnHook": true,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_downbad",
+      "name": "How to find down bad X",
+      "app": "regen",
+      "campaigns": [],
+      "dayHooks": [],
+      "spanHooks": [
+        "How to find down bad {Aud}, if ur really downbad",
+        "How to find {Aud} if ur really downbad",
+        "Where to find down bad {Aud}, if ur really downbad"
+      ],
+      "reference": "Example (34s), hook on screen: How to find Furrys if ur downbad\nIf you've got a furry kink and you're super damn bad, let me put you on the method on how to find easy ones to crack. So what you're going to want to do is download this app right here called Bark, which is a furry dating app and also use hinge as well. Now you're going to need some really good photos let's be real, you probably don't look good enough to pull these furries the standard that you want. So you're going to choose a model's photo and swap your face around with his. I used Regen for this. upload these on both dating apps and watch the lights flood in. Now it's simply just a matter of sorting through your DMs and meeting up with the fairies that are close to you and cracking. Thanks for watching and come back for more tips.",
+      "collection": "",
+      "cta": "Explain the method the way he does in the reference: you take a photo of a guy that women simp over, swap your face with his using {app}, and upload it to your dating apps. It is the thing he did, said in passing, not an ad read.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookStyle": "bg",
+      "hookCollage": 0,
+      "statsFunnel": false,
+      "inboxOnHook": true,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_catfish",
+      "name": "New Catfishing Meta",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [],
+      "spanHooks": [
+        "New Catfishing Meta",
+        "The new catfishing meta",
+        "This is the new catfishing meta"
+      ],
+      "reference": "I catfished her into a date yesterday and she still doesn't even know that I did it. Because I promise you, there is zero way you would ever be able to tell. Just look at this chain here. Does that look familiar to you? It even took over my exact chain. And yes, these pictures are completely AI generated. I used Regen to do this by the way, because I understand that hypergamy is a real thing, but I just used that to my advantage and became one of the top 30% of men that all girls are swiping right on. Game is game.",
+      "collection": "good photos",
+      "cta": "Explain the method the way he does in the reference: you take a photo of a guy that women simp over, swap your face with his using {app}, and upload it to your dating apps. It is the thing he did, said in passing, not an ad read.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookStyle": "bg",
+      "hookCollage": 0,
+      "statsFunnel": false,
+      "inboxOnHook": true,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_10of10",
+      "name": "10/10 pictures for Social Media",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [],
+      "spanHooks": [
+        "10/10 pictures for Social Media",
+        "10/10 pictures for your dating profile",
+        "10/10 pics every single guy needs"
+      ],
+      "reference": "10 out of 10 pictures to have in your social media, single male edition. A solo shot where you're dressed well and you look like you're going somewhere. A photo that shows your physique without it being the whole personality. A candid laughing photo just makes you look approachable. A simple travel shot. A nice group photo with all your friends to show that you actually have a life. A clean across the table dating picture. And if you don't have pictures like this, I actually partnered up with Regen AI because it generates them for you. An outdoor shot just to make everything look a bit more natural. A night out photo where you look your absolute best.",
+      "collection": "good photos",
+      "cta": "Keep it SHORT. This one runs long: cut a beat or two of photo talk before the CTA so the whole thing lands under about 35 seconds. Name the tool once, in passing, the way he does: he took a photo of a guy women simp over, swapped his face onto it with {app}, and put it on his dating apps. The line should land like \"I used {app} for this\", never an ad read.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookCollage": 4,
+      "hookStyle": "outline",
+      "statsFunnel": false,
+      "inboxOnHook": true,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_c60511fc6d",
+      "name": "I swiped right on X to see how many would crack",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [],
+      "spanHooks": [
+        "Asking {n} {aud} to crack"
+      ],
+      "reference": "Example (43s), hook on screen: Asking 100,000 furries to crack\n\nI wanted to see how many furries would actually let me crack. So I swiped right on 100,000 furries on Hinge. Out of those, 13,610 matched with me and 86,390 did not match. Out of the ones who matched, 1,114 replied. Then 1,008 said no, but 106 actually said yes. Before I get into how many actually cracked, I'm gonna show you how I got them. I took a male model these girls already drool over and swapped my face with his. I used Regen for this. It also gets me matches with ABGs, so I know it works. I ended up cracking two so far, but the rest are ready to go.\n\nStructure, beat by beat:\n1. Hook over a photo of the audience with Logan's overlay.\n2. The Hinge right swipe total on its own graphic.\n3. The split: how many matched and how many did not match.\n4. The replies: how many replied, how many said no, and how many said yes.\n5. How he got them: the face swap method, over the app screens.\n6. Straight to camera, no background: how many actually cracked, and a sign off.",
+      "collection": "",
+      "cta": "Near the end, worked in as the method he used to get so many of them: he took a photo of a male model the girls are already drooling over and swapped his own face onto it with {app}, then put that on his dating profiles. Said in passing, not as an ad read. He also admits the method pulls in normal women too, which he has to filter through, because that is what makes it sound real.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookCollage": 0,
+      "hookStyle": "bg",
+      "statsFunnel": true,
+      "inboxOnHook": false,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_prove",
+      "name": "To prove how much i love X",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [],
+      "spanHooks": [
+        "{Aud} challenge"
+      ],
+      "reference": "Example (43s), hook on screen: Furry challenge. The hook shot is a PHOTO of the audience with Logan's overlay. The Hinge swipe graphic comes on the next line.\n\nTo prove to everyone how much I love furries, I went looking for them on Hinge. I swiped right on 40,000 furries on Hinge. Out of those, 7,040 matched with me and 32,960 did not match. Out of the ones who matched, 1,203 replied. Then 1,115 said no, but 88 actually said yes. Before I tell you how many I cracked, I took a male model's photo and swapped my face with his. I used Regen for this. It also gets me matches with sorority girls, so I know it works. I've cracked two so far, but the rest are ready to go.\n\nNOTE on the above: this one keeps the high performing hook and beat order, but uses the new Hinge swipe funnel. Keep the CTA short as directed below.",
+      "collection": "",
+      "cta": "Keep the WHOLE finished script between 90 and 105 words. The numbers are the spine, so move through them quickly and do not pad the transitions. Keep the method section at 35 words or fewer.\n\nSay it as the method he used, in passing, on the way to the payoff: he took a male model's photo, swapped his own face onto it with {app}, and put that on his dating apps.\n\nAfter the exact app line, add one short proof sentence showing the method also gets matches from attractive mainstream women. Name one recognisable group, such as ABGs, sorority girls, Latinas or snow bunnies, and vary it across a batch. Example: \"It also gets me matches with ABGs, so I know it works.\" This is conversion proof, not a complaint about unwanted women. One sentence only.\n\nIt goes AFTER the yes count and BEFORE the final cracked number, so the unanswered payoff pulls viewers through it.\n\nTHE APP LINE. It is always exactly \"I used {app} for this.\" on its own, as its own sentence and its own beat, never merged into the sentence before or after it. That line gets its own shot with the app screenshot on it, so it has to stand alone. Do not write \"I used {app} to do this\", \"with {app}\", or any other wording.",
+      "hookCollage": 0,
+      "hookStyle": "bg",
+      "statsFunnel": true,
+      "inboxOnHook": false,
+      "hookOverlay": ""
+    },
+    {
+      "id": "f_feet_ask",
+      "name": "I asked 100k X for feet pics",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [
+        "Day {day} of asking {aud} for feet pics",
+        "Day {day} of the {aud} feet pic challenge",
+        "Day {day} of seeing how many {aud} feet pics I can get"
+      ],
+      "spanHooks": [
+        "How many {aud} feet pics can I get in {span}?",
+        "Asking {aud} for feet pics for {span}",
+        "The {span} {aud} feet pic challenge"
+      ],
+      "reference": "",
+      "collection": "",
+      "cta": "Keep this SHORT, it is where people drop off. Aim for 35 words or fewer.\n\nSay it as the method he used, in passing, on the way to the payoff: he took a male model's photo, swapped his own face onto it with {app}, and put that on his dating apps. Keep one beat of \"you get loads of normal women too, so there is a lot to filter\", because that is what makes it sound real. Cut everything else: no recommending it, no listing what he ended up with.\n\nIt goes AFTER the yes count and BEFORE the final number he got, so the unanswered payoff is what pulls them through it.\n\nTHE APP LINE. It is always exact",
+      "hookCollage": 0,
+      "hookStyle": "bg",
+      "statsFunnel": true,
+      "inboxOnHook": false,
+      "hookOverlay": "feet"
+    },
+    {
+      "id": "f_feet_30day",
+      "name": "30 day feet pic challenge",
+      "app": "regen, roast",
+      "campaigns": [],
+      "dayHooks": [
+        "Day {day} of seeing how many {aud} i can crack",
+        "day {day} of cracking {Aud}",
+        "Day {day} of seeing how many {aud} i can pull"
+      ],
+      "spanHooks": [
+        "How many {Aud} can i crack in {span}",
+        "Cracking {Aud} until i get an S*D",
+        "how many {aud} can crack me in {span}?"
+      ],
+      "reference": "",
+      "collection": "",
+      "cta": "Keep this SHORT, it is where people drop off. Aim for 35 words or fewer.\n\nSay it as the method he used, in passing, on the way to the payoff: he took a male model's photo, swapped his own face onto it with {app}, and put that on his dating apps. Keep one beat of \"you get loads of normal women too, so there is a lot to filter\", because that is what makes it sound real. Cut everything else: no recommending it, no listing what he ended up with.\n\nIt goes AFTER the yes count and BEFORE the final number he got, so the unanswered payoff is what pulls them through it.\n\nTHE APP LINE. It is always exact",
+      "hookCollage": 0,
+      "hookStyle": "bg",
+      "statsFunnel": true,
+      "inboxOnHook": false,
+      "hookOverlay": ""
+    }
+  ],
+  "audiences": [
+    {
+      "id": "a_furries",
+      "label": "Furries",
+      "collection": "furrys",
+      "word": "furries"
+    },
+    {
+      "id": "a_femboys",
+      "label": "Femboys",
+      "collection": "trans/femboy",
+      "word": "femboys"
+    },
+    {
+      "id": "a_tortas",
+      "label": "Tortas",
+      "collection": "torta",
+      "word": "tortas"
+    },
+    {
+      "id": "a_girlies",
+      "label": "Girlies",
+      "collection": "torta",
+      "word": "girlies"
+    },
+    {
+      "id": "a_bwgs",
+      "label": "BWGs",
+      "collection": "bwgs",
+      "word": "big white girls"
+    },
+    {
+      "id": "a_pawgs",
+      "label": "PAWGs",
+      "collection": "pawgs",
+      "word": "PAWGs"
+    },
+    {
+      "id": "a_gymgirls",
+      "label": "Freaky gym girls",
+      "collection": "pawgs",
+      "word": "freaky gym girls"
+    },
+    {
+      "id": "a_milfs",
+      "label": "MILFs",
+      "collection": "milfs",
+      "word": "MILFs"
+    },
+    {
+      "id": "a_onlyfans",
+      "label": "OnlyFans models",
+      "collection": "onlyfans",
+      "word": "OnlyFans models"
+    },
+    {
+      "id": "a_oatgirls",
+      "label": "Freaky oat girls",
+      "collection": "pawgs",
+      "word": "freaky oat girls"
+    },
+    {
+      "id": "a_blackgirls",
+      "label": "Black girls",
+      "collection": "black girls",
+      "word": "black girls"
+    },
+    {
+      "id": "a_gothmums",
+      "label": "Goth mommies",
+      "collection": "goth mommys",
+      "word": "goth mommies"
+    },
+    {
+      "id": "a_indians",
+      "label": "Indians",
+      "collection": "indian mommys",
+      "word": "Indian girls"
+    },
+    {
+      "id": "a_indianmums",
+      "label": "Indian mommys",
+      "collection": "indian mommys",
+      "word": "Indian mommys"
+    },
+    {
+      "id": "a_strippers",
+      "label": "Strippers",
+      "collection": "strippers",
+      "word": "strippers"
+    },
+    {
+      "id": "a_hookers",
+      "label": "Hookers",
+      "collection": "strippers",
+      "word": "hookers"
+    },
+    {
+      "id": "a_wnba",
+      "label": "WNBA",
+      "collection": "wnba",
+      "word": "WNBA players"
+    },
+    {
+      "id": "a_snowbunnies",
+      "label": "Snow bunnies",
+      "collection": "snow bunnies",
+      "word": "snow bunnies"
+    },
+    {
+      "id": "a_asu",
+      "label": "ASU sorority girls",
+      "collection": "asu sorority",
+      "word": "ASU sorority girls"
+    }
+  ]
+}
