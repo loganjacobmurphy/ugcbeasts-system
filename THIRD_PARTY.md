@@ -1,6 +1,6 @@
 # Third-party components
 
-This private source package does not change the licenses of its dependencies.
+This source package does not change the licenses of its dependencies.
 Python and npm dependency manifests are included. Model code and weights are
 downloaded from their upstream providers on first use, not copied from the
 original owner's caches.

@@ -1,13 +1,14 @@
 # UGC Beasts: complete creator system
 
-The local video editor and web dashboard, together in one private repository.
+The local video editor and web dashboard, together in one public repository.
 This is an independent copy. It does not connect to the original owner's laptop,
 database, Cloudflare account, API keys, videos or photo library.
 
 ## Quick start
 
-Install Python 3.11 and Node.js 24, then clone this private repository or download
-its ZIP while signed in to a GitHub account with access.
+Install Python 3.11 and Node.js 24, then clone this repository or download its ZIP.
+No GitHub login or invitation is needed. GitHub hosts the source; run the setup
+below on your own computer to use the system.
 
 ```sh
 git clone https://github.com/loganjacobmurphy/ugcbeasts-system.git
@@ -60,5 +61,5 @@ For the full setup, optional hosting, asset tags and troubleshooting, see
 [docs/SETUP.md](docs/SETUP.md). For dependency and asset notices, see
 [THIRD_PARTY.md](THIRD_PARTY.md).
 
-This is private source shared with authorized collaborators, not an open-source
+This source is publicly readable. Publication does not add an open-source
 license grant. Third-party software and assets retain their own licenses.
